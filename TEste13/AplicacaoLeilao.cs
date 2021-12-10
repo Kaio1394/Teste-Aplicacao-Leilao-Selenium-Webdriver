@@ -30,7 +30,7 @@ namespace TestandoAplicacaoLeilaoWeb
             // E clico no botão Registrar.
             driver.FindElement(By.Id("btnRegistro")).Click();
 
-            // Então Capturo o título da página
+            // Então Capturo a mensagem da página
             Assert.Contains("Obrigado", driver.PageSource);
         }
     }
