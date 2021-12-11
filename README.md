@@ -17,7 +17,7 @@ Repositório feito para versionar os testes de automação feito em uam aplicaç
 
 ***Instalação:***
 - Acesse a página https://visualstudio.microsoft.com/pt-br/vs/older-downloads/ e faça o download do Microsoft Visual Studio 2019.
-- Acesse a opção "Ferramentas" > "Gerenciador de pacotes NuGe > "Console do gerenciador de pacotes".
+- Acesse a opção "Ferramentas" > "Gerenciador de pacotes NuGet" > "Console do gerenciador de pacotes".
 - Após isso escreva no terminal ```Install-Package Microsoft.AspNetCore -Version 2.2.8``` 
 - Agora tudo está pronto.
 
